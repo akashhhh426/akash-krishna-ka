@@ -42,6 +42,7 @@ Voice assistant project built using C++.
 
 GitHub: https://github.com/akashhhh426  
 LinkedIn: https://www.linkedin.com/in/akash-ak-589499372
+
 Portfolio: https://akashhhh426.github.io/portfolio/
 
 ---
