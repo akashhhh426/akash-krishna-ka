@@ -41,7 +41,7 @@ Voice assistant project built using C++.
 📱 Phone: +91 6238040871  
 
 GitHub: https://github.com/akashhhh426  
-LinkedIn: https://www.linkedin.com/in/akash-ak-589499372
+LinkedIn: https://www.linkedin.com/in/akash-krishna-ka-589499372
 
 Portfolio: https://akashhhh426.github.io/portfolio/
 
